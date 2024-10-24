@@ -1,4 +1,4 @@
-# data_structure_Homework1
+# Data_structure_Homework1
 ## Author:S1123509 Valerie
 Stacks:
 <br>
